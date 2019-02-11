@@ -1,0 +1,3 @@
+readme.md,momo,all rights reserved.
+bullseye...
+fast easy and good!

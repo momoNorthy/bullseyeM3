@@ -1,0 +1,15 @@
+*.lib
+*.dll
+*.out
+*.exe
+*.app
+#vs project
+.vs
+*.vcxproj
+*.filters
+*.user
+*.db
+*.opendb
+*.sln
+#text file
+*.txt
